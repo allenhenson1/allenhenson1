@@ -18,24 +18,19 @@ WAN connectivity, and dynamic routing using RIPv2.
 ### 🏫 Main Campus Network
 - 📄 Report:  
   [AH_Main_Campus_Network_Report.docx](reports/main-campus/AH_Main_Campus_Network_Report.docx)
-- 🖼 Topology Diagram:  
-  [AH_Main_Campus_Topology.png](reports/main-campus/AH_Main_Campus_Topology.png)
 
 ---
 
 ### 🏢 Campus 2 Branch Network
 - 📄 Report:  
   [AH_Campus2_Network_Report.docx](reports/campus-2-branch/AH_Campus2_Network_Report.docx)
-- 🖼 Topology Diagram:  
-  [AH_Campus2_Topology.png](reports/campus-2-branch/AH_Campus2_Topology.png)
 
 ---
 
 ### ☁️ Cloud Network
 - 📄 Report:  
   [AH_Cloud_Network_Report.docx](reports/cloud-network/AH_Cloud_Network_Report.docx)
-- 🖼 Topology Diagram:  
-  [AH_Cloud_Topology.png](reports/cloud-network/AH_Cloud_Topology.png)
+
 
 ---
 
@@ -44,8 +39,6 @@ WAN connectivity, and dynamic routing using RIPv2.
   [AH_Enterprise_Network_Report.docx](reports/enterprise/AH_Enterprise_Network_Report.docx)
 - 📄 PDF Report (Final Submission):  
   [AH_Enterprise_Network_Report.pdf](reports/enterprise/AH_Enterprise_Network_Report.pdf)
-- 🖼 Enterprise Topology Diagram:  
-  [AH_Enterprise_Topology.png](reports/enterprise/AH_Enterprise_Topology.png)
 
 ---
 
