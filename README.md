@@ -34,7 +34,7 @@ WAN connectivity, and dynamic routing using RIPv2.
 
 ---
 
-### 🌐 Enterprise Network (Combined)
+### 🌐 Enterprise Network with Diagram (Combined)
 
 - 📄 PDF Report (Final Submission):  
   [AH_Enterprise_Network_Report.pdf](AH_Enterprise_Network_Report.pdf)
