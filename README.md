@@ -29,7 +29,7 @@ WAN connectivity, and dynamic routing using RIPv2.
 
 ### ☁️ Cloud Network
 - 📄 Report:  
-  [AH_Cloud_Network_Report.docx](reports/cloud-network/AH_Cloud_Network_Report.docx)
+  [AH_Cloud_Network_Report.docx](AH_Cloud_Network_Report.pdf)
 
 
 ---
