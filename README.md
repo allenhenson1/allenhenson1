@@ -1,16 +1,83 @@
-## Hi there 👋
+# Allen H Enterprise Network – Cisco Packet Tracer Project
 
-<!--
-**allenhenson1/allenhenson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains the complete Cisco Packet Tracer network design and
+configuration documentation for the **Allen H Enterprise Network**, including:
 
-Here are some ideas to get you started:
+- Main Campus Network
+- Campus 2 Branch Network
+- Cloud / WAN Network
+- Unified Enterprise Network Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The project demonstrates VLAN segmentation, Router-on-a-Stick inter-VLAN routing,
+WAN connectivity, and dynamic routing using RIPv2.
+
+---
+
+## 📘 Network Reports
+
+### 🏫 Main Campus Network
+- 📄 Report:  
+  [AH_Main_Campus_Network_Report.docx](reports/main-campus/AH_Main_Campus_Network_Report.docx)
+- 🖼 Topology Diagram:  
+  [AH_Main_Campus_Topology.png](reports/main-campus/AH_Main_Campus_Topology.png)
+
+---
+
+### 🏢 Campus 2 Branch Network
+- 📄 Report:  
+  [AH_Campus2_Network_Report.docx](reports/campus-2-branch/AH_Campus2_Network_Report.docx)
+- 🖼 Topology Diagram:  
+  [AH_Campus2_Topology.png](reports/campus-2-branch/AH_Campus2_Topology.png)
+
+---
+
+### ☁️ Cloud Network
+- 📄 Report:  
+  [AH_Cloud_Network_Report.docx](reports/cloud-network/AH_Cloud_Network_Report.docx)
+- 🖼 Topology Diagram:  
+  [AH_Cloud_Topology.png](reports/cloud-network/AH_Cloud_Topology.png)
+
+---
+
+### 🌐 Enterprise Network (Combined)
+- 📄 Word Report:  
+  [AH_Enterprise_Network_Report.docx](reports/enterprise/AH_Enterprise_Network_Report.docx)
+- 📄 PDF Report (Final Submission):  
+  [AH_Enterprise_Network_Report.pdf](reports/enterprise/AH_Enterprise_Network_Report.pdf)
+- 🖼 Enterprise Topology Diagram:  
+  [AH_Enterprise_Topology.png](reports/enterprise/AH_Enterprise_Topology.png)
+
+---
+
+## ⚙️ Device Configurations
+
+### Routers
+- Main Campus Router  
+  `configs/routers/main-campus-router.txt`
+- Campus 2 Branch Router  
+  `configs/routers/campus2-router.txt`
+- Cloud Router  
+  `configs/routers/cloud-router.txt`
+
+### Switches
+- Main Campus Access Switch  
+  `configs/switches/main-campus-switch.txt`
+- Campus 2 Access Switch  
+  `configs/switches/campus2-switch.txt`
+
+---
+
+## 🧠 Technologies Used
+- Cisco Packet Tracer
+- VLANs & 802.1Q Trunking
+- Router-on-a-Stick (ROAS)
+- DHCP
+- RIPv2 Dynamic Routing
+- WAN / Point-to-Point Links
+
+---
+
+## 👨‍💻 Author
+**Allen H Enterprise Network Project**  
+Cisco Packet Tracer – Academic Network Design
+
