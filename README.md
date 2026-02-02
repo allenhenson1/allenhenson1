@@ -23,7 +23,7 @@ WAN connectivity, and dynamic routing using RIPv2.
 
 ### 🏢 Campus 2 Branch Network
 - 📄 Report:  
-  [AH_Campus2_Network_Report.docx](reports/campus-2-branch/AH_Campus2_Network_Report.docx)
+  [AH_Campus2_Network_Report.docx](AH_Main_Campus_Network_Report.docx)
 
 ---
 
