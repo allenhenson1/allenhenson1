@@ -17,19 +17,19 @@ WAN connectivity, and dynamic routing using RIPv2.
 
 ### 🏫 Main Campus Network
 - 📄 Report:  
-  [AH_Main_Campus_Network_Report.docx](AH_Main_Campus_Network_Report.pdf)
+  [AH_Main_Campus_Network_Report.pdf](AH_Main_Campus_Network_Report.pdf)
 
 ---
 
 ### 🏢 Campus 2 Branch Network
 - 📄 Report:  
-  [AH_Campus2_Network_Report.docx](AH_Campus2_Network_Report.pdf)
+  [AH_Campus2_Network_Report.pdf](AH_Campus2_Network_Report.pdf)
 
 ---
 
 ### ☁️ Cloud Network
 - 📄 Report:  
-  [AH_Cloud_Network_Report.docx](AH_Cloud_Network_Report.pdf)
+  [AH_Cloud_Network_Report.pdf](AH_Cloud_Network_Report.pdf)
 
 
 ---
