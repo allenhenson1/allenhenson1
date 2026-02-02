@@ -17,7 +17,7 @@ WAN connectivity, and dynamic routing using RIPv2.
 
 ### 🏫 Main Campus Network
 - 📄 Report:  
-  [AH_Main_Campus_Network_Report.docx](reports/main-campus/AH_Main_Campus_Network_Report.docx)
+  [AH_Main_Campus_Network_Report.docx](AH_Main_Campus_Network_Report.docx)
 
 ---
 
