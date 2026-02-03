@@ -60,7 +60,7 @@ WAN connectivity, and dynamic routing using RIPv2.
 
 ---
 
-## 🧠 Technologies Used
+##  Technologies Used
 - Cisco Packet Tracer
 - VLANs & 802.1Q Trunking
 - Router-on-a-Stick (ROAS)
@@ -70,7 +70,7 @@ WAN connectivity, and dynamic routing using RIPv2.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 **Allen H Enterprise Network Project**  
 Cisco Packet Tracer – Academic Network Design
 
